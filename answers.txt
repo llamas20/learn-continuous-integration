@@ -1,0 +1,6 @@
+1. What does the __runs-on__ string represent?
+    The runs-on string represents which runner the action will run on..
+2. In `main.yml`, on which branch do the jest tests run when a push to main branch is made?
+    main
+3. In `main.yml`, on which branch do the jest tests run when a pull request is submitted to the deploy branch?
+    deploy
